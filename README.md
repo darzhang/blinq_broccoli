@@ -21,7 +21,7 @@ Runs all the test suits for the app.
 
 To view more details about test mode, please visit [Next.js documentation](https://nextjs.org/docs).
 
-### `npm run build
+### `npm run build`
 Generates an optimized version of the application for production.
 
 To view more details about the application build for production, please visit  [Next.js documentation](https://nextjs.org/docs).
